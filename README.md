@@ -31,7 +31,7 @@ Topics to Research:
 - Assess the computational requirements for training and inference ofalternative voice models.
 - Analyze the trade-offs between quality and resource consumption for each alternative voice model.
   
-Research topics:
+4. Research topics:
 - Research aim: Explore and compare chatbot, embeddings model, and voice models.
 - Objective: Determine the most suitable model for a specific use case.
 - Focus: Identify different models within each category.
